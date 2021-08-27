@@ -156,3 +156,21 @@ td button {
     height: 50px;
 }
 
+.BotaoUm:active { 
+    color: white
+}
+.BotaoUm:hover{
+    background-color: orange;
+}
+.BotaoDois:active { 
+    color: white
+}
+.BotaoDois:hover{
+    background-color: orange;
+}
+.BotaoTres:active { 
+    color: white
+}
+.BotaoTres:hover{
+    background-color: orange;
+}
