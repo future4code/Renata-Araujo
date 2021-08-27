@@ -108,10 +108,8 @@ div:last-child {
 }
 
 table {
-    width: 100%;
-    display: flex;
-    flex-direction: table;
-    justify-content: center;
+    width: 60%;
+    margin: auto
 }
 
 td button {
