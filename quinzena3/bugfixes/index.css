@@ -107,7 +107,10 @@ div:last-child {
 }
 
 table {
-    width: 60%;
+    width: 100%;
+    display: flex;
+    flex-direction: table;
+    justify-content: center;
 }
 
 td button {
@@ -136,4 +139,19 @@ td button {
 
 #back-button:hover {
     background-color: #635a3d
+}
+
+.imagemUm { 
+    width: 50px;
+    height: 50px;
+}
+
+.imagemDois { 
+    width: 50px;
+    height: 50px;
+}
+
+.imagemTres { 
+    width: 50px;
+    height: 50px;
 }
