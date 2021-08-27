@@ -79,11 +79,10 @@ div img {
     display: flex;
     flex-direction: column;
 }
-#container-de-descricao>p {
-    margin-top: 150px;
-    text-align: center; 
+#container-de-descricao {
     display: flex;
     flex-direction: column;
+    justify-content: center;
 }
 #container-para-comprar {
     background-color: #e7eb90;
